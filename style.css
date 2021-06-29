@@ -34,16 +34,6 @@ main h2{
     font-size: small;
     font-weight: 700;
 }
-main h3{
-    text-align: center;
-    font-size: xxx-large;
-    font-weight: 800;
-}
-main h4{
-    text-align: center;
-    font-size: small;
-    font-weight: 700;
-}
 
 main #sub-info{
     width: 40%;
@@ -74,4 +64,8 @@ main .btn:hover{
     background-color: var(--color);
 
     transform: scale(0.9);
+}
+footer{
+     font-size: small;
+     font-weight: 700;
 }
