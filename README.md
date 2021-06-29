@@ -1,0 +1,1 @@
+Podstronak do strony głównej
