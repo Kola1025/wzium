@@ -1,1 +1,1 @@
-Podstronak do strony głównej
+Podstronka do strony głównej
